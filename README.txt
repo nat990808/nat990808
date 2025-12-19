@@ -1,5 +1,4 @@
 Natan Feyisa Kebede
-ID: 008/BSC-B6/2024
 
 It includes three pages: index.html (Home), about.html (About), projects.html (Projects).
 Files included:
